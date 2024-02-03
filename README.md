@@ -1,6 +1,10 @@
 # Play ChatGPT APIs
 
-Personal play ground
+## Features
+
+* Integration with OpenAI's GPT-3.5 or 4: Utilizing the API for natural language processing and understanding
+* Calendar Management: Tools to interact with calendar services for scheduling and managing events
+* Jupyter Notebook Demonstrations: Interactive notebooks demonstrating the capabilities and potential uses of the ChatGPT APIs with calendar services
 
 ## Environments
 
@@ -24,8 +28,8 @@ jupyter lab
 
 ## Structure
 
-* demos: My experimentation after learning
-* learnings: Following instructions from do
+* demos: My experimentation afteer learning:
+* learnings: tutorials: Detailed guides and tutorials I follow
 
 ### Working Assistant
 
