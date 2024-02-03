@@ -2,12 +2,11 @@
 
 Personal play ground
 
-## Requires
+## Environments
 
 * Python 3.11 or above
 * OpenAI API Key
 * [Jupyter Lab](https://jupyter.org/)
-
 
 ## Setup
 
@@ -20,15 +19,15 @@ Personal play ground
 export OPENAI_API_KEY="{your_api_key}"
 
 # launch jupyter lab
-jupter lab
+jupyter lab
 ```
 
-## Structures
+## Structure
 
 * demos: My experimentation after learning
 * learnings: Following instructions from do
 
-## Working Assistant
+### Working Assistant
 
 `working-assistant.ipynb` notebook is for experimenting how to chat with Calendar
 
