@@ -39,3 +39,8 @@ TODO:
 - [x] List schedule for given period: day | week
 - [x] Book an event
 - [ ] Modifity an event
+
+
+* [Develop on Google Workspace](https://developers.google.com/workspace/guides/get-started) - Setup Google project & enabling Google Calendar.
+* [Google Calendar API doc](https://developers.google.com/calendar/api/v3/reference/calendars#methods)
+* [Learn about authentication and authorization ](https://developers.google.com/workspace/guides/auth-overview)
