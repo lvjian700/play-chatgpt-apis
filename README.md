@@ -2,11 +2,7 @@
 
 Experimenting OpenAI APIs.
 
-* Working Assistant:
-    - [ ] Chat with Calendar, organzing Calendar by using Natural language. (Doing)
-    - [ ] Update Slack status
-
-- [ ] Whisper APIs
+* Working Assistant (doing)
 
 ## Environments
 
