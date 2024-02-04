@@ -1,10 +1,12 @@
 # Play ChatGPT APIs
 
-## Features
+Experimenting OpenAI APIs.
 
-* Integration with OpenAI's GPT-3.5 or 4: Utilizing the API for natural language processing and understanding
-* Calendar Management: Tools to interact with calendar services for scheduling and managing events
-* Jupyter Notebook Demonstrations: Interactive notebooks demonstrating the capabilities and potential uses of the ChatGPT APIs with calendar services
+* Working Assistant:
+    - [ ] Chat with Calendar, organzing Calendar by using Natural language. (Doing)
+    - [ ] Update Slack status
+
+- [ ] Whisper APIs
 
 ## Environments
 
